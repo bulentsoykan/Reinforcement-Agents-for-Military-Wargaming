@@ -42,7 +42,7 @@ We provide a Python script `scenario_maker.py` that merges data from `.csv` file
 
 To generate a custom scenario:
 
-```
+```python
 python scenario_maker.py scenario_dir output.js
 ```
 
